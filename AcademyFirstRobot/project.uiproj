@@ -1,0 +1,6 @@
+{
+  "Name": "AcademyFirstRobot",
+  "ProjectType": "Process",
+  "Description": "AcademyFirstRobot",
+  "MainFile": "Main.xaml"
+}

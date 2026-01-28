@@ -1,0 +1,6 @@
+{
+  "Name": "DataTable activity",
+  "ProjectType": "Process",
+  "Description": "DataTable activity",
+  "MainFile": "Main.xaml"
+}

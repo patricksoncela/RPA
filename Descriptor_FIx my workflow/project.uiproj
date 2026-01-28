@@ -1,0 +1,6 @@
+{
+  "Name": "Dynamic Descriptor_FIx my workflow",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
