@@ -1,0 +1,6 @@
+{
+  "Name": "For Each UI element",
+  "ProjectType": "Process",
+  "Description": "An example of fine-tuning a descriptor using wildcards",
+  "MainFile": "Main.xaml"
+}

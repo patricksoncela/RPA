@@ -1,0 +1,6 @@
+{
+  "Name": "RegEx",
+  "ProjectType": "Process",
+  "Description": "RegEx",
+  "MainFile": "Main.xaml"
+}

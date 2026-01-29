@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise_Input_Output_Activities",
+  "ProjectType": "Process",
+  "Description": "This project has workflow which focuses on learning how to use the various input and ouput activities.",
+  "MainFile": "Main.xaml"
+}

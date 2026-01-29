@@ -1,0 +1,6 @@
+{
+  "Name": "ExtractDataTablePractice",
+  "ProjectType": "Process",
+  "Description": "ExtractDataTablePractice",
+  "MainFile": "Main.xaml"
+}

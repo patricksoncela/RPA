@@ -1,0 +1,6 @@
+{
+  "Name": "String Activities",
+  "ProjectType": "Process",
+  "Description": "String Activities",
+  "MainFile": "Main.xaml"
+}

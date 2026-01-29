@@ -1,0 +1,6 @@
+{
+  "Name": "StringManipulation",
+  "ProjectType": "Process",
+  "Description": "StringManipulation",
+  "MainFile": "Main.xaml"
+}
